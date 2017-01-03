@@ -1,3 +1,7 @@
+---
+layout: default
+title: A Gossip about Old Manchester. With illustrations.
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
